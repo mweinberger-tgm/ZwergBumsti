@@ -1,4 +1,4 @@
 ZwergBumsti
 ===========
 
-Das erste Repository.
+Weinberger 3AHIT
